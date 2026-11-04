@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Data Center - Radius Distribution" type="PythonConfigurationType" factoryName="Python">
+    <module name="Data_Center" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="IS_MODULE_SDK" value="true" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/radius_distribution.py" />
+    <option name="PARAMETERS" value="" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <envs><env name="PYTHONIOENCODING" value="utf-8" /></envs>
+    <method v="2" />
+  </configuration>
+</component>
