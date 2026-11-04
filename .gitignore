@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+*.iml
+data/
+outputs/
+work/heat_all_cache/
+work/heat_libs/
+work/radii_workbook_data.json
+.env
+.env.*
